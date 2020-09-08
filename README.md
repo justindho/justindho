@@ -18,7 +18,7 @@ Manufacturing Engineer at Northrop Grumman Corporation.
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justindho" alt="justindho" /> </p>
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justindho&show_icons=true)](https://github.com/AVS1508)
+[![justindho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justindho&show_icons=true)](https://github.com/justindho)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
