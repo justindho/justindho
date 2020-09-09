@@ -1,6 +1,6 @@
-<h2 align="center"> Hey there! I'm Justin.</h2>
+<h2 align="left"> Hey there! I'm Justin.</h2>
 
-<h3 align="center"> 👨🏻‍💻 About Me </h3>
+<h3 align="left"> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of Southern California.
@@ -8,7 +8,7 @@
 - 💼 &nbsp; Worked as a Software Development Engineering Intern at Amazon Web Services (AWS).
 - 💼 &nbsp; Worked as an Aerospace Manufacturing Engineer at Northrop Grumman Corporation.
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 
 - 💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -22,21 +22,21 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/justindho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=justindho&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true" />
     </a>
 </p>
 
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
+<h3 align="left"> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
     <a href="https://justindho.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.justindho.github.io-blue?style=flat-square&logo=google-chrome"></a>
     <a href="https://www.linkedin.com/in/justindho/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Justin%20Ho%20-blue?style=flat-square&logo=linkedin"></a>
     <a href="mailto:hojustin@usc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-hojustin@usc.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3 align="center"> Some of my past Engineering Work</h3>
-<p align="center">
+<h3 align="left"> Some of my past Engineering Work</h3>
+<p align="left">
     <a href="https://portfolium.com/justindho/"><img alt="Portfolium" src="https://img.shields.io/badge/Portfolium-justindho-blue?style=flat-square&logo=portfolium"></a>
 </p>
