@@ -36,7 +36,7 @@
     <a href="mailto:hojustin@usc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-hojustin@usc.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3 align="left"> Some of my past Engineering Work</h3>
+<h3 align="left"> Some of My Past Engineering Work</h3>
 <p align="left">
     <a href="https://portfolium.com/justindho/"><img alt="Portfolium" src="https://img.shields.io/badge/Portfolium-justindho-blue?style=flat-square&logo=portfolium"></a>
 </p>
