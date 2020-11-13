@@ -2,16 +2,17 @@
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Southern California.
-- 🎓 &nbsp; Completed my Bachelor's degree in Mechanical Engineering at the University of California, San Diego.
+- 🤔 &nbsp; Messing around with tech.
 - 💼 &nbsp; Worked as a Software Development Engineering Intern at Amazon Web Services (AWS).
 - 💼 &nbsp; Worked as an Aerospace Manufacturing Engineer at Northrop Grumman Corporation.
+- 🎓 &nbsp; Working on my Master's degree in Computer Science at the University of Southern California.
+- 🎓 &nbsp; Completed my Bachelor's degree in Mechanical Engineering at the University of California, San Diego.
+
 
 <h3 align="left">🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+- 💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 - 🌐 &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp; ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 - 🛢 &nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=4479A1) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=336791) ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite&logoColor=003B57)
 - 🔧 &nbsp; ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon%20AWS&logoColor=232F3E) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
