@@ -2,10 +2,9 @@
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Messing around with tech.
 - 💼 &nbsp; Worked as a Software Development Engineering Intern at Amazon Web Services (AWS).
 - 💼 &nbsp; Worked as an Aerospace Manufacturing Engineer at Northrop Grumman Corporation.
-- 🎓 &nbsp; Working on my Master's degree in Computer Science at the University of Southern California.
+- 🎓 &nbsp; Finishing up my Master's degree in Computer Science at the University of Southern California.
 - 🎓 &nbsp; Completed my Bachelor's degree in Mechanical Engineering at the University of California, San Diego.
 
 
