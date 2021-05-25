@@ -2,10 +2,10 @@
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Worked as a Software Development Engineering Intern at Amazon Web Services (AWS).
-- 💼 &nbsp; Worked as an Aerospace Manufacturing Engineer at Northrop Grumman Corporation.
-- 🎓 &nbsp; Finishing up my Master's degree in Computer Science at the University of Southern California.
-- 🎓 &nbsp; Completed my Bachelor's degree in Mechanical Engineering at the University of California, San Diego.
+- 💼 &nbsp; Former Software Development Engineering Intern at Amazon Web Services (AWS).
+- 💼 &nbsp; Former Aerospace Manufacturing Engineer at Northrop Grumman Corporation.
+- 🎓 &nbsp; Master's in Computer Science graduate at the University of Southern California (USC).
+- 🎓 &nbsp; Bachelor's in Mechanical Engineering graduate at the University of California, San Diego (UCSD).
 
 
 <h3 align="left">🛠 Tech Stack</h3>
