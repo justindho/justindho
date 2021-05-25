@@ -31,12 +31,12 @@
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-    <a href="https://justindho.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.justindho.github.io-blue?style=flat-square&logo=google-chrome"></a>
-    <a href="https://www.linkedin.com/in/justindho/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Justin%20Ho%20-blue?style=flat-square&logo=linkedin"></a>
-    <a href="mailto:hojustin@usc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-hojustin@usc.edu-blue?style=flat-square&logo=gmail"></a>
+    <a href="https://justindho.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
+    <a href="https://www.linkedin.com/in/justindho/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:justinho515@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <h3 align="left"> Some of My Past Engineering Work</h3>
 <p align="left">
-    <a href="https://portfolium.com/justindho/"><img alt="Portfolium" src="https://img.shields.io/badge/Portfolium-justindho-blue?style=flat-square&logo=portfolium"></a>
+    <a href="https://portfolium.com/justindho/"><img alt="Portfolium" src="https://img.shields.io/badge/Portfolium-blue?style=flat-square&logo=portfolium"></a>
 </p>
