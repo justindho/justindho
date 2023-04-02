@@ -2,7 +2,7 @@
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Current Software Development Engineer at Amazon Web Services (AWS).
+- 💼 &nbsp; Former Software Development Engineer at Amazon.
 - 💼 &nbsp; Former Software Development Engineering Intern at Amazon Web Services (AWS).
 - 💼 &nbsp; Former Aerospace Manufacturing Engineer at Northrop Grumman Corporation.
 - 🎓 &nbsp; Master's in Computer Science graduate at the University of Southern California (USC).
